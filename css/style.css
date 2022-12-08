@@ -536,7 +536,7 @@
     padding: 0;
     z-index: 2;
     pointer-events: none;
-    display:flex;
+    display: none;
     /* justify-content: space-between; */
 }
 
